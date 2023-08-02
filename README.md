@@ -1,2 +1,2 @@
 # FilesForJohn
- MiscQuartusfiles
+ miscQusrtus T80 files
